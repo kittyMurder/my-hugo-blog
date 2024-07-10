@@ -26,16 +26,4 @@
     title = "GitHub"
     weight = 3
 
-[[socials]]
-    id = "twitter"
-    url = "https://twitter.com/reuixiy"
-    icon = "twitter"
-    title = "Twitter"
-    weight = 4
 
-[[socials]]
-    id = "telegram"
-    url = "https://t.me/yixiuer"
-    icon = "telegram"
-    title = "Telegram"
-    weight = 5
