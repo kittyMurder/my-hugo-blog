@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://kittymurder-xi.vercel.app/"
-title = "kittymurder的灵魂圣所"
+baseURL = "https://kittykiller-lu.vercel.app/"
+title = "kittyKiller的灵魂圣所"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -100,7 +100,7 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "kittymurder"
+    name = "kittyKiller"
     # 邮箱
     email = "tongflow5199@protonmail.com"
     # 座右铭或简介
@@ -108,7 +108,7 @@ uglyURLs = false
     # 头像
     avatar = "/icons/blob_go.png"
     # 网站（默认值：baseURL）
-    website = "https://kittymurder-xi.vercel.app/"
+    website = "https://kittykiller-lu.vercel.app/"
     # 推特
     # twitter = "reuixiy"
 
