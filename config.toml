@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
+baseURL = "https://kittymurder-xi.vercel.app/"
 title = "kittymurder的灵魂圣所"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -106,7 +106,7 @@ uglyURLs = false
     # 座右铭或简介
     motto = "一只孤独的鸬鹚凝望着大海，对你的到来漠不关心。"
     # 头像
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = "/icons/blob_go.png"
     # 网站（默认值：baseURL）
     website = "https://kittymurder-xi.vercel.app/"
     # 推特
@@ -298,7 +298,7 @@ uglyURLs = false
     # 说明：对弹性布局的顶栏无效
 
     # 是否按文章分区高亮当前菜单项
-    activeInSection = false
+    activeInSection = true
     # 说明：如果开启，那么当某一文章的分区名是某
     #      一菜单项中的 `url` 时，该文章页面中
     #      的该菜单项也会被高亮
@@ -343,7 +343,7 @@ uglyURLs = false
     # 站点信息
 
     # 站点的 LOGO
-    siteLogo = "/icons/apple-touch-icon.png"
+    siteLogo = "/icons/007_blob.png"
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
@@ -399,6 +399,7 @@ uglyURLs = false
 
     # 是否显示每一分类下的文章数
     displayPostsCount = true
+
 
     # 设置一个非负数来限制每一分类下展示的文章数
     limitPostsLimit = -1
