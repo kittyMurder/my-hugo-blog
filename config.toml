@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://kittykiller-lu.vercel.app/"
-title = "kittyKiller的灵魂圣所"
+title = "灵魂圣所"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
