@@ -14,14 +14,14 @@
 
 [[socials]]
     id = "email"
-    url = "mailto:reuixiy@gmail.com"
+    url = "tongflow5199@protonmail.com"
     icon = "envelope"
     title = "Email"
     weight = 2
 
 [[socials]]
     id = "github"
-    url = "https://github.com/reuixiy"
+    url = "https://github.com/kittyMurder/"
     icon = "github"
     title = "GitHub"
     weight = 3
