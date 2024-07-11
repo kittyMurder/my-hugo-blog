@@ -26,7 +26,7 @@ titleCaseStyle = "none"
 pluralizeListTitles = false
 
 # 摘要的字数限制
-summaryLength = 42
+summaryLength = 50
 
 # 是否开启 GitHub 风格的 Emoji 书写方式
 enableEmoji = true
@@ -52,6 +52,9 @@ uglyURLs = false
 [permalinks]
     categories = "/categories/:slug/"
     tags = "/tags/:slug/"
+    about = '/about/:slug/'
+ 
+ 
 
 # 类别
 [taxonomies]
@@ -109,8 +112,7 @@ uglyURLs = false
     avatar = "/icons/blob_go.png"
     # 网站（默认值：baseURL）
     website = "https://kittykiller-lu.vercel.app/"
-    # 推特
-    # twitter = "reuixiy"
+ 
 
 # 相关文章
 [related]
@@ -193,32 +195,37 @@ uglyURLs = false
 
 [menu]
     ## 菜单栏
-    # [[menu.main]]
-    #     pageref = "/"
-    #     name = "首页"
-    #     weight = 1
-    #     pre = "internal"
-    #     post = "home"
+    [[menu.main]]
+        pageref = "/"
+        url = "/"
+        name = "首页"
+        weight = 1
+        pre = "internal"
+        post = "home"
     [[menu.main]]
         pageref = "/posts/"
+        url = "/posts/"
         name = "文章"
         weight = 2
         pre = "internal"
         post = "archive"
     [[menu.main]]
         pageref = "/categories/"
+        url = "/categories/"
         name = "分类"
         weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
         pageref = "/tags/"
+        url = "/tags/"
         name = "标签"
         weight = 4
         pre = "internal"
         post = "tags"
     [[menu.main]]
         pageref = "/about/"
+        url = "/about/"
         name = "关于"
         weight = 5
         pre = "internal"
