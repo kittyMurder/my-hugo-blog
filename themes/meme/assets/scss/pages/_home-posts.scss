@@ -1,12 +1,18 @@
 article.content.post.home {
-    background-color: hsla(337, 78%, 91%, 0.2);
+    background: linear-gradient(90deg, hsla(48, 88%, 90%, 0.2),hsla(337, 78%, 91%, 0.2), hsla(225, 78%, 91%, 0.2), hsla(178, 100%, 88%,0.2));
     border-radius: 2em;
     margin-top: 5em;
-
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .summary-title-link {
     color: var(--color-contrast-higher);
+    transition: color 0.3s ease;
+}
+
+.summary-title-link:hover {
+    color: rgb(228, 110, 146);
 }
 
 .summary {
@@ -15,15 +21,23 @@ article.content.post.home {
 }
 
 .read-more-container {
+    
     text-align: center;
     margin-top: 1.618em;
 }
 .read-more-link {
     display: inline-block;
+    color:rgb(10, 17, 58);
+    transition: color 0.4s ease;  /* 添加过渡效果 */
+}
+
+.read-more-link:hover {
+    color:rgb(246, 130, 165);
 }
 
 .pagination {
     list-style: none;
+    
     margin: 5em 0 0;
     padding: 0;
     display: flex;
