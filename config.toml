@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://kittykiller-lu.vercel.app/"
+baseURL = "https://dessertkiller-lu.vercel.app/"
 title = "灵魂圣所"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -103,7 +103,7 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "kittyKiller"
+    name = "dessertkiller"
     # 邮箱
     email = "tongflow5199@protonmail.com"
     # 座右铭或简介
@@ -111,7 +111,7 @@ uglyURLs = false
     # 头像
     avatar = "/icons/blob_go.png"
     # 网站（默认值：baseURL）
-    website = "https://kittykiller-lu.vercel.app/"
+    website = "https://dessertkiller-lu.vercel.app/"
  
 
 # 相关文章
