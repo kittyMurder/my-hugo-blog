@@ -1449,7 +1449,7 @@ uglyURLs = false
 
     # 视频地址
     fofVideoWebm = ""
-    fofVideoMp4 = ""
+    fofVideoMp4 = "videos/catkissu.mp4"
     # 说明：视频地址可留空（""）
 
 
