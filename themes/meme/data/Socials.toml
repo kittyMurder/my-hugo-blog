@@ -12,16 +12,3 @@
     title = "RSS"
     weight = 1
 
-[[socials]]
-    id = "email"
-    url = "tongflow5199@protonmail.com"
-    icon = "envelope"
-    title = "Email"
-    weight = 2
-
-[[socials]]
-    id = "github"
-    url = "https://github.com/kittykiller123?tab=repositories"
-    icon = "github"
-    title = "GitHub"
-    weight = 3
