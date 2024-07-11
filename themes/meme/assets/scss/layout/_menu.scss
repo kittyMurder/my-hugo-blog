@@ -4,8 +4,12 @@
 }
 
 .menu {
-    padding: 0;
+    
     margin: 0;
+    padding: 0px;
+        /* 调整此值以向右移动整个菜单 */
+   
+        /* 确保左边距为零，以防止向左移动 */
     list-style: none;
     line-height: 1.5;
     font-weight: 500;
