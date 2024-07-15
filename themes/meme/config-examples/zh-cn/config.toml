@@ -241,6 +241,10 @@ uglyURLs = false
 
 [params]
     ######################################
+    # 网站图标
+    favicon = "images/favicon.ico"
+
+
     # 顶栏
 
     # 是否开启
