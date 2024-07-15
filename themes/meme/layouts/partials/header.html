@@ -3,6 +3,12 @@
         {{ if eq .Site.Params.headerLayout "flex" }}
             <div class="header-wrapper">
                 <div class="header-inner {{ cond (or .IsHome (eq (len .Pages) 0)) "single" "list"}}">
+                    <div class="logo-container">
+                        <img src="https://cdn.discordapp.com/emojis/854481023089639484.gif?size=64" alt="Logo" class="logo-image">
+                        <!-- url替换为logo图片的绝对路径 -->
+                        <div class="logo-overlay"></div>
+                    </div>
+
                     {{ template "site-brand" . }}
                     {{ partial "menu.html" . }}
                     {{ partial "custom/header.html" . }}
