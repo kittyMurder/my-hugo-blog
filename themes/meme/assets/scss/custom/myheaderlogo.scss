@@ -1,0 +1,14 @@
+.logo-container {
+    float: left;
+    /* 将logo图片浮动到最左边 */
+    margin-right: 20px;
+    /* 添加一些右边距，用于与标题分隔开 */
+}
+
+.logo-container img {
+    width: 100px;
+    /* 设置logo图片的宽度 */
+    height: auto;
+    /* 保持图片高度自适应 */
+    transition: transform 0.3s;
+}
