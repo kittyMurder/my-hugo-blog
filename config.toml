@@ -86,6 +86,7 @@ uglyURLs = false
             unsafe = true
             xHTML = false
     [markup.highlight]
+        style = 'monokai'
         codeFences = true
         guessSyntax = false
         lineNos = true
