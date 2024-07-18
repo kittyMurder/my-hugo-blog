@@ -131,6 +131,11 @@ uglyURLs = false
         weight = 10
         pattern = "2006"
 
+
+[outputs]
+  home = ["HTML", "RSS", "Algolia"]
+
+
 # Atom 文件格式的媒体类型
 [mediaTypes."application/atom+xml"]
     suffixes = ["xml"]
@@ -237,10 +242,10 @@ uglyURLs = false
     [[menu.main]]
         weight = 7
         identifier = "lang-switcher"
-    # [[menu.main]]
-    #     weight = 8
-    #     identifier = "search"
-    #     post = "search"
+     [[menu.main]]
+         weight = 8
+         identifier = "search"
+         post = "search"
 
 
 
@@ -1441,11 +1446,11 @@ uglyURLs = false
     #      次将生成的 algolia.json 文件上传到
     #      Algolia
 
-    enableAlgoliaSearch = false
+    enableAlgoliaSearch = true
 
-    algoliaAppId = ""
-    algoliaApiKey = ""
-    algoliaIndexName = ""
+    algoliaAppId = "SRH8RFF3Q9"
+    algoliaApiKey = "d2c3bcef4a7e71752829e5176ee30af7"
+    algoliaIndexName = "my_blog"
     # 说明：https://www.algolia.com/
 
 
