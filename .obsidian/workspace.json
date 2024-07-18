@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "773ff7e8af857cd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "54216462836d1fb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00966a9ace65d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/daily/7-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e71048247825f0b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa7d26303cbe63b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fdd5c0148047469",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7377ba40decd4eb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0869c91d2a01d501",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68bdaea9bc4ace02",
+    "type": "split",
+    "children": [
+      {
+        "id": "3170d10ae9e18dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d0522b98a535b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/daily/7-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3af6a3f7395bbf3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/daily/7-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0dccf43103bb8cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3890fdd0db3561d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/daily/7-18.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "d00966a9ace65d75",
+  "lastOpenFiles": [
+    "content/posts/daily/7-15.md",
+    "content/posts/daily/测试.md",
+    "content/posts/daily/7-18.md",
+    "content/posts/daily/7-10.md",
+    "archetypes/default.md"
+  ]
+}
