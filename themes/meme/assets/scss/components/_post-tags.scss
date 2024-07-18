@@ -1,7 +1,7 @@
 .post-tags {
-    margin-top: 5rem;
+    margin-top: 4rem;
     text-align: center;
-    font-size: 90%;
+    font-size: 94%;
 }
 
 .post-tags-link {
@@ -11,7 +11,11 @@
     display: inline-block;
 }
 
+.post-tags-link:hover {
+    color:rgb(110, 140, 240);
+}
+
 .tag-icon {
     margin-right: 0.3em;
-    font-size: 80%;
+    font-size: 84%;
 }

@@ -29,6 +29,18 @@
             {{- end }}
 
             {{- if .Site.Params.displaySiteCopyright }}
+                
+                <!-- 添加在copyright之前 -->
+                
+                <!-- Add total page and word count time -->
+                {{$scratch := newScratch}}
+                {{ range (where .Site.Pages "Kind" "page" )}}
+                {{$scratch.Add "total" .WordCount}}
+                {{ end }}
+                <!-- 发表了{{ len (where .Site.RegularPages "Section" "post") }}篇文章 · -->
+                杀手小猫已经碎碎念了{{ div ($scratch.Get "total") 1000.0 | lang.FormatNumber 2 }}k字
+                <br>
+            
                 {{- $raw := .Site.Copyright -}}
                 <div class="site-copyright">{{ partial "utils/markdownify.html" (dict "$" $ "raw" $raw "isContent" false) }}</div>
             {{- end }}

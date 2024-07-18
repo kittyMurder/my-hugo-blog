@@ -8,12 +8,23 @@
     margin-top: 5em;
     padding-top: 0.618em;
 }
+
 .post-nav-prev {
     margin-right: auto;
     max-width: 42%;
 }
+
 .post-nav-next {
     margin-left: auto;
     text-align: right;
     max-width: 42%;
+}
+
+/* 添加悬停效果 */
+.post-nav-prev a:hover,
+.post-nav-next a:hover {
+    color: rgba(219, 109, 142, 0.774);
+    /* 你想要的悬停颜色 */
+    transition: color 0.3s ease;
+    /* 添加过渡效果 */
 }

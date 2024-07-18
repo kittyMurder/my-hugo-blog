@@ -6,8 +6,6 @@
     .header {
         position: fixed;
         width: 100vw;
-        
-            /* 设置固定高度，可以根据需要调整 */;
     }
     .header-wrapper {
         padding: 1em 0;
@@ -23,10 +21,10 @@
         max-width: $postWidth;
     }
     .header-inner.list {
-        max-width: $listWidth;
+        max-width: $listWidth * 1.1;
     }
     .site-brand {
-        margin-right: 1em;
+        margin-right: 4em;
     }
 } @else {
     .header {
@@ -67,10 +65,10 @@ $brandHeight: null;
                 /* brand */
                 #{$brandHeight},
                 /* menu */
-                #{$fontSize * 0.9 * 1.5} /* {.nav font-size} * {.menu line-height} */
+                #{$fontSize * 0.8 * 1.2} /* {.nav font-size} * {.menu line-height} */
             )
             /* .header-wrapper top+bottom margin */
-            + #{$fontSize * 2.2}
+            + #{$fontSize * 2.0}
         );
     }
 
