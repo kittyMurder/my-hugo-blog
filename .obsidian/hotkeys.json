@@ -1,0 +1,11 @@
+{
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}

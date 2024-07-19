@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/daily/7-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "397d98929440b633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/daily/7-18.md",
+                "file": "content/about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/daily/7-19.md",
+                "file": "content/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/daily/7-19.md",
+                "file": "content/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/daily/7-19.md"
+                "file": "content/about/index.md"
               }
             }
           }
@@ -162,10 +150,11 @@
   },
   "active": "d00966a9ace65d75",
   "lastOpenFiles": [
-    "content/posts/daily/7-18.md",
-    "content/posts/daily/7-15.md",
-    "content/posts/daily/7-11.md",
     "content/posts/daily/7-19.md",
+    "content/about/index.md",
+    "content/posts/daily/7-18.md",
+    "content/posts/daily/7-11.md",
+    "content/posts/daily/7-15.md",
     "themes/meme/layouts/shortcodes/card.html",
     "themes/meme/assets/scss/custom/_card.scss",
     "content/posts/daily/测试.md",
