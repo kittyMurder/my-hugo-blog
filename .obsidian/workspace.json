@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/posts/daily/7-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/posts/daily/7-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about/index.md",
+                "file": "content/posts/daily/7-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about/index.md"
+                "file": "content/posts/daily/7-19.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "d00966a9ace65d75",
   "lastOpenFiles": [
+    "content/about/index.md",
     "content/about/assets/Pasted image 20240719113333.png",
     "content/about/assets",
     "content/posts/daily/7-19.md",
-    "content/about/index.md",
     "content/posts/daily/7-18.md",
     "content/posts/daily/7-11.md",
     "content/posts/daily/7-15.md",
