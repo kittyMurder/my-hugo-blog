@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228
   },
   "right": {
     "id": "68bdaea9bc4ace02",
@@ -150,9 +150,11 @@
   },
   "active": "d00966a9ace65d75",
   "lastOpenFiles": [
+    "content/posts/daily/7-18.md",
+    "themes/meme/layouts/shortcodes/card.html",
+    "themes/meme/assets/scss/custom/_card.scss",
     "content/posts/daily/7-15.md",
     "content/posts/daily/测试.md",
-    "content/posts/daily/7-18.md",
     "content/posts/daily/7-10.md",
     "archetypes/default.md"
   ]
