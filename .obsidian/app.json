@@ -1,8 +1,10 @@
 {
   "defaultViewMode": "source",
   "propertiesInDocument": "source",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "./assets",
+  "readableLineLength": false,
+  "rightToLeft": false
 }

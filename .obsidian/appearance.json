@@ -3,5 +3,6 @@
   "theme": "moonstone",
   "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
   "accentColor": "#c0a487",
-  "monospaceFontFamily": "Batang"
+  "monospaceFontFamily": "Batang",
+  "baseFontSize": 23
 }
