@@ -5,6 +5,6 @@
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./assets",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "rightToLeft": false
 }
